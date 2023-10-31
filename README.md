@@ -64,6 +64,6 @@ print("\nApproximate Probabilities of {}:".format(query_variable))
 print(query_result)
 ```
 ## Output :
-![o](
+![o](https://github.com/kaviyabalaji/Ex-No.-4--Implementation-of-Approximate-Inference-in-Bayesian-Networks/blob/main/exp4.png)
 ## Result : 
 Thus an approximate method of inference computation is implemented using Gibbs Smapling in Python
